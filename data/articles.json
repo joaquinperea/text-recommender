@@ -1,0 +1,5 @@
+[
+  {"id": 1, "title": "Cómo aplicar IA en salud", "content": "La inteligencia artificial está revolucionando el sector salud..."},
+  {"id": 2, "title": "Modelos de lenguaje grandes", "content": "Los LLM como GPT han transformado el NLP..."},
+  {"id": 3, "title": "FastAPI para APIs modernas", "content": "FastAPI permite construir APIs rápidas con Python..."}
+]

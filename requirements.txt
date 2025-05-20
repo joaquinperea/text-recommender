@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+faiss-cpu
+sentence-transformers
+pydantic
+pydantic-settings>=2.0
+dotenv
+pytest
+httpx
